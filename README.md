@@ -18,6 +18,11 @@ LZUSig is a large-scale Chinese handwritten signature dataset designed for study
 
 ![Dataset Preview](assets/dataset_preview.png)
 
+## Download
+
+The image files are provided in [Download image archive from Google Drive](https://drive.google.com/file/d/1FKHJPyWKAestX6wDYbdGXWXc2f_rRcrS/view?usp=sharing). Labels are stored in `data/train_labels.txt`, `data/test_labels.txt`, and `data/all_labels.txt`.
+
+
 ## Repository Structure
 
 ```text
@@ -42,10 +47,6 @@ All dataset files are placed under the `data/` directory.
 - `data/train_labels`: labels for the training split.
 - `data/test_labels`: labels for the test split.
 - `data/all_labels`: labels for the full dataset.
-
-## Download
-
-The image files are provided in the release archive `images.zip`. Labels are stored in `data/train_labels.txt`, `data/test_labels.txt`, and `data/all_labels.txt`.
 
 ## Anonymous Review Notes
 
