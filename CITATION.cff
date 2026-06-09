@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "LZUSig: Anonymous Review Dataset"
+message: "If you use this dataset, please cite the corresponding anonymous submission during review."
+type: dataset
+authors:
+  - name: "Anonymous Authors"
+year: 2026
+repository-code: "https://github.com/anonymous/LZUSig"
+license: "LicenseRef-ResearchOnly"
