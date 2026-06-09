@@ -43,6 +43,10 @@ All dataset files are placed under the `data/` directory.
 - `data/test_labels`: labels for the test split.
 - `data/all_labels`: labels for the full dataset.
 
+## Download
+
+The image files are provided in the release archive `images.zip`. Labels are stored in `data/train_labels.txt`, `data/test_labels.txt`, and `data/all_labels.txt`.
+
 ## Anonymous Review Notes
 
 This repository is prepared for anonymous review. All filenames and labels use anonymous sample IDs. No author names, participant identities, affiliations, original filenames, or collection metadata are included.
